@@ -3,7 +3,7 @@
 module Plotly
   module Js
     module Rails
-      VERSION = "2.0.0"
+      VERSION = "2.15.1"
     end
   end
 end
